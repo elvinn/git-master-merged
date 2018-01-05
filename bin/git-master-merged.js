@@ -1,12 +1,12 @@
 #! /usr/bin/env node
-const proess = require('process')
+const process = require('process')
 
 const check = require('../src/index')
-const { error } = require('./util')
+const { error } = require('../src/util')
 
 const result = check()
 
 if (!result.isMerged) {
   error(result.errorMessage)
-  proces.exit(1)
+  process.exit(1)
 }
