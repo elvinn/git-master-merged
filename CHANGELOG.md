@@ -1,7 +1,11 @@
 # Change Log
 
+## 0.2.0 (Januray 14, 2017)
+* add tests.
+* format code.
+
 ## 0.1.0-alpha.3 (January 05, 2017)
-* fix: wrong import path in bin/git-master-merged.js
+* fix wrong import path in bin/git-master-merged.js.
 
 ## 0.1.0-alpha.2 (January 04, 2017)
 * add codebeat check.

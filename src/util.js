@@ -1,5 +1,5 @@
 const chalk = require('chalk')
-const execSync = require('child_process').execSync
+const { execSync } = require('child_process')
 
 const errorMessages = [
   'Not a git repository (or any of the parent directories)',

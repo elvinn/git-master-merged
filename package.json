@@ -1,12 +1,12 @@
 {
   "name": "git-master-merged",
-  "version": "0.1.0-alpha.3",
+  "version": "0.2.0",
   "description": "Check whether the latest commit of master has been merged into current branch for git projects.",
   "bin": {
     "git-master-merged": "./bin/git-master-merged.js"
   },
   "scripts": {
-    "test": "jest --runInBand",
+    "test": "jest --runInBand --coverage",
     "lint": "standard --verbose | snazzy",
     "lint:fix": "standard --fix | snazzy",
     "precommit": "npm run lint"
@@ -29,6 +29,7 @@
   "devDependencies": {
     "eslint": "^4.14.0",
     "jest": "^22.0.5",
+    "rimraf": "^2.6.2",
     "snazzy": "^7.0.0",
     "standard": "^10.0.3"
   }
