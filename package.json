@@ -23,6 +23,9 @@
     "url": "https://github.com/elvinn/git-master-merged.git"
   },
   "license": "MIT",
+  "engines": {
+    "node": ">= 6.0.0"
+  },
   "dependencies": {
     "chalk": "^2.3.0"
   },
