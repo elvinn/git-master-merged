@@ -1,7 +1,7 @@
 [![Npm Package](https://img.shields.io/npm/v/git-master-merged.svg)](https://www.npmjs.com/package/git-master-merged)
 [![Npm Downloads](https://img.shields.io/npm/dm/git-master-merged.svg)](https://www.npmjs.com/package/git-master-merged)
 [![Build Status](https://travis-ci.org/elvinn/git-master-merged.svg?branch=master)](https://travis-ci.org/elvinn/git-master-merged)
-[![node](https://img.shields.io/node/v/passport.svg)](https://github.com/elvinn/git-master-merged)
+[![node](https://img.shields.io/node/v/git-master-merged.svg)](https://github.com/elvinn/git-master-merged)
 [![codebeat badge](https://codebeat.co/badges/30fdd548-51c2-4267-a322-8cfab860c520)](https://codebeat.co/projects/github-com-elvinn-git-master-merged-master)
 [![Dependency Status](https://david-dm.org/elvinn/git-master-merged.svg)](https://david-dm.org/elvinn/git-master-merged?view=list)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
