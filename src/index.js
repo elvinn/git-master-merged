@@ -21,7 +21,7 @@ function check () {
   const currentBranch = execCommand('git rev-parse --abbrev-ref HEAD')
   const ancestor = execCommand(`git merge-base origin/master ${currentBranch}`)
   const masterLatest = execCommand('git log --oneline -n 1 --pretty=format:"%H" origin/master')
-  
+
   if (ancestor !== masterLatest) {
     const latestCommitLog = execCommand('git log --oneline -n 1 --pretty=format:"%s by %cn at %cd (%h)" origin/master')
     const errorMessage = 'The latest commit of master hasn\'t been merged into current branch!\n' +
