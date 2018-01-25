@@ -1,6 +1,6 @@
 {
   "name": "git-master-merged",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Check whether the latest commit of master has been merged into current branch for git projects.",
   "bin": {
     "git-master-merged": "./bin/git-master-merged.js"

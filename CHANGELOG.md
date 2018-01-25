@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.2 (Januray 25, 2018)
+* fix up lint problems in test files.
+* update README.
+
 ## 0.2.1 (Januray 16, 2018)
 * add Travis CI.
 * fix time error in CHANGELOG.md.
