@@ -28,7 +28,7 @@ $ npm install --save-dev git-master-merged
 如果是全局安装的话，直接在 git 项目目录下运行如下指令：
 
 ```shell
-$ git-master-merged
+$ npm run git-master-merged
 ```
 
 如果是作为项目的依赖安装的话，先修改 `package.json`，添加如下代码：
