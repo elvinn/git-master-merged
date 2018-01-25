@@ -41,7 +41,7 @@ If installed as a development dependency, set up a check script in `package.json
 Then run command in project directory:
 
 ```shell
-$ git-master-merged
+$ npm run git-master-merged
 ```
 
 
