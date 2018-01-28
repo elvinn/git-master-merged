@@ -63,3 +63,6 @@ typings/
 
 # npm link file
 package-lock.json
+
+# .github files
+.github/
