@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.0 (May, 07, 2018)
+* release stable version.
+
 ## 0.2.2 (Januray 25, 2018)
 * fix up lint problems in test files.
 * update README.

@@ -6,7 +6,7 @@
 [![Dependency Status](https://david-dm.org/elvinn/git-master-merged.svg)](https://david-dm.org/elvinn/git-master-merged?view=list)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-# git-master-merged ([中文文档](https://github.com/elvinn/git-master-merged/blob/master/README_ZH.md))
+# git-master-merged ([Chinese Doc](https://github.com/elvinn/git-master-merged/blob/master/README_ZH.md))
 
 Check whether the latest commit of master has been merged into current branch for git projects.
 
